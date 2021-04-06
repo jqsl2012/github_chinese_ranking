@@ -16,3 +16,5 @@ github chinese ranking：旨在更好的学习与分享更优秀的中文项目�
 - 数据结构与算法    http://soblog.cc/github_chinese_ranking/algorithm
 - Flutter    http://soblog.cc/github_chinese_ranking/flutter
 - 小程序     http://soblog.cc/github_chinese_ranking/small
+
+- 技术/好玩分享社区   http://share100.soblog.cc/
